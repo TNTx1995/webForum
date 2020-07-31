@@ -1,0 +1,19 @@
+<div class="container">
+    <div class = "row">
+        <h4>Catagory</h4>
+        <div class = "col-md-3">
+            <ul class="list-group">
+                <a href = "{{route('thread.index')}}" class ="list-group-item">
+                    <span class = "badge">14</span>
+                    All Threads
+                </a>
+                <a href = "#" class = "list-group-item">
+                    <span class = "badge">2</span>
+                    PHP
+                </a>
+                <a href = "#" class = "list-group-item">
+                    <span class="badge">1</span>
+                    Python
+                </a>
+            </ul>
+        </div>
